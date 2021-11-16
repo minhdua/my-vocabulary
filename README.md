@@ -1,0 +1,2 @@
+# my-vocabulary
+python, firebase
