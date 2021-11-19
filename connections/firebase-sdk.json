@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-practice-315811",
+  "private_key_id": "19bdcfecaca32f900f558d7631b3e8d8a6186bd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1+uzihbMv6HRG\nZxeUHQ17CINSLDA/6eSc0NNqaPPecG5kF/pZon5+4uSXSp1bs4aCzH9rR0ii+J7E\nAYEDUZfhlsbkpdtKQw3XM2MjObMhaaGl/e0ZebE8SFB5BHWYy5C53XyxBhzwpx1o\nW17YUlBphcntGcJep/gljCDLLolazXtsh3+RwZ2YVKsyPxPCx+ej+YmcVKDda6cm\n9z9wTxXMS36M8M8dig6GdipU3UevJP31XG75MjwiHHwzkz2k2h9kpYdHOzewsQFw\nLTViOkDHY9jhYnfptN+MZ9B758PD0W5A2X69l0BbVeYobNfi1OVpscE9/EhyiX9B\neb5g+43hAgMBAAECggEASf1Jzxf5MONcUzubNJdTYdCmRAS/YV0hnDiznLIrZSdl\nWsD9AvC0abaqpnCp5hzp9chbjiyfddOMCblq0QSdshTxrQlaTalRuUulZS8Si+U8\n2haSDieSTiZAwdN0VLl/kHJjPj50CcyIgmOT/nQJSb4hyYsNohq9I9cDhljXc9ki\nTnBO6v7h4QZ/sjjFOH5J5+1AFpXXPZw/ooruI9TmpHTsOVeZvcxyJRkSwh2+P5AV\nBHXpDFEaC2KU1WhhTRGYlQpwQ/eHb2rAJnB6zukVEvCwxNeMxFPvAqoaPqOcFlVU\n4/PCgZbkNcINcKbhhOV6SFasEdrlscYogPgASNaqWQKBgQD8MDEuSGMwPqJRNiAA\ngAt6UotnVs9ts4Vyqu5KK1h5mEXplM3pRwUUgWwkMFwFRO8WY+bl1BBoOMxicAzs\nQ28+ROtvwuNMu5haxGOhyC7c6Ql/afq+8Mj0XHJrIp14Zol0YM+RC3TU33uXtXPn\nL2F04nEPtmbYJ0dGzERWXvVCJwKBgQC4uxKcRREPQYVOC6R9VX6W9GZaCOXkD60C\ncPsi0hFGoFI0UNpoqKHqMOUh/iWtgZKcYAeN7WhS4PLKgKBATcVxSYJu2EG/40NZ\nx+SK045DTJJiBYPz9pb+x+FJ03DQMo2FsIiH8KVyuLkXcwboZvw8/un0GqoZVxPG\nhZ0APUsctwKBgG0OliYSrbouS9lc06gDt3L1gU12EAu7p4j3/EZcyk0DGbCyZf1s\ndfjxIwffVdv9fHstRqu68kFv1or3M890NgYynbHeEJedRHx0EzXiMMndiPrtpL6v\nt+dclypXdMudY/HM79YkoyhvYK4xjOa76aQ3THdkBMOS8NLgAOls9RjfAoGALAOu\nsHsoUGk9GNZfT9mR+ueqh2M9WzR89Wrz+1zv7tL+Iybskykywvj5bzr9wTRxOT8M\nLb3WMIEWeDdjd07Qb2ijYkO2jsDYaEjfZFB5wgE5k49a3ELxwSzgudVeOM0CuUrR\njQpCcW4f871ddPwst1/JYHcF9lmwBYoKWWdBQUsCgYAGgeX/w8t0V7WgIiARrw3H\ncQnTJKRCS2igIZLB7dFg6Ad/OKALcHDN0qocNIRM6+YiJEMmOaalcky/mahxI45u\nhLcShUziQNqaz2O5d6208Sk649KBMYGvJrhbwUU/asD13wZFj7N2VXYIFS/jKyj7\nr9GsWRGXklOQt2G7Pr4xug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y1m7l@alpine-practice-315811.iam.gserviceaccount.com",
+  "client_id": "110792190522987647324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y1m7l%40alpine-practice-315811.iam.gserviceaccount.com"
+}
